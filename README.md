@@ -24,9 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
