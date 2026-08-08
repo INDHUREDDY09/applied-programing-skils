@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +37,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
