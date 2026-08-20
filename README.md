@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
