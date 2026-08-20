@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Quickselect
 |  |
 | ------- |
