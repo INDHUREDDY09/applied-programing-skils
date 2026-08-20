@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1480-running-sum-of-1d-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
