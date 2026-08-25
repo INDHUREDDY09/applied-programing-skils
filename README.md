@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
