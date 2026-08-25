@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
