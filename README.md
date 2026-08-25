@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
