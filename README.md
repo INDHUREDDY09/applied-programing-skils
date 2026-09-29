@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0007-reverse-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3894-traffic-signal-color](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1360-number-of-days-between-two-dates) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3894-traffic-signal-color](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/3894-traffic-signal-color) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0946-validate-stack-sequences) |
+| [3894-traffic-signal-color](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
