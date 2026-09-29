@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0387-first-unique-character-in-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0905-sort-array-by-parity) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0946-validate-stack-sequences) |
 | [3894-traffic-signal-color](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/3894-traffic-signal-color) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
