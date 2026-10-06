@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/INDHUREDDY09/applied-programing-skils/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
